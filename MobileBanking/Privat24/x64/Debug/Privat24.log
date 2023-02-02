@@ -1,0 +1,3 @@
+﻿main.obj : error LNK2019: unresolved external symbol __imp_PlaySoundW referenced in function "int __cdecl MainMenu(int)" (?MainMenu@@YAHH@Z)
+D:\Programs\Visual Studio\audiere\lib\audiere.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+D:\Programs\Visual Studio\Repos\Privat24\x64\Debug\Privat24.exe : fatal error LNK1120: 1 unresolved externals

@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\Programs\Visual Studio\Repos\Privat24\Privat24\main.cpp(100,22): warning C4018: '<': signed/unsigned mismatch
+D:\Programs\Visual Studio\Repos\Privat24\Privat24\main.cpp(101,23): warning C4018: '<': signed/unsigned mismatch
+D:\Programs\Visual Studio\Repos\Privat24\Privat24\main.cpp(1039): warning C4715: 'MainMenu': not all control paths return a value
+  Privat24.vcxproj -> D:\Programs\Visual Studio\Repos\Privat24\Debug\Privat24.exe
